@@ -1,4 +1,6 @@
-
+#  Mean and variance of a discrete  distribution
+# Developed by: Kishore k
+# Register number: 212223040101
 
 # Aim : 
 
